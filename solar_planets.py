@@ -11,7 +11,7 @@ cv2.putText(img,
 
 cv2.putText(img,
             "Mercury",
-            (20,300),
+            (20,350),
             cv2.FONT_HERSHEY_COMPLEX,
             0.5,
             (255,255,255)
@@ -19,7 +19,7 @@ cv2.putText(img,
 
 cv2.putText(img,
             "Venus",
-            (20,300),
+            (20,400),
             cv2.FONT_HERSHEY_COMPLEX,
             0.5,
             (255,255,255)
@@ -27,7 +27,7 @@ cv2.putText(img,
 
 cv2.putText(img,
             "Earth",
-            (20,300),
+            (20,450),
             cv2.FONT_HERSHEY_COMPLEX,
             0.5,
             (255,255,255)
