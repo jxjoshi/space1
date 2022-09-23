@@ -32,3 +32,38 @@ cv2.putText(img,
             0.5,
             (255,255,255)
             )
+cv2.putText(img,
+            "Mars",
+            (20,450),
+            cv2.FONT_HERSHEY_COMPLEX,
+            0.5,
+            (255,255,255)
+            )
+cv2.putText(img,
+            "Jupiter",
+            (20,450),
+            cv2.FONT_HERSHEY_COMPLEX,
+            0.5,
+            (255,255,255)
+            )
+cv2.putText(img,
+            "Saturn",
+            (20,450),
+            cv2.FONT_HERSHEY_COMPLEX,
+            0.5,
+            (255,255,255)
+            )
+cv2.putText(img,
+            "Uranus",
+            (20,450),
+            cv2.FONT_HERSHEY_COMPLEX,
+            0.5,
+            (255,255,255)
+            )
+cv2.putText(img,
+            "Neptune",
+            (20,450),
+            cv2.FONT_HERSHEY_COMPLEX,
+            0.5,
+            (255,255,255)
+            )
